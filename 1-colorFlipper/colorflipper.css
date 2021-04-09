@@ -1,0 +1,25 @@
+body {
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "PT Sans", sans-serif;
+  /* background-color: hsl(210, 36%, 96%); */
+  background-color: #f1f5f8;
+}
+#heading {
+  background-color: rgba(0, 0, 0, 0);
+  border: 2px rgb(22, 22, 20) solid;
+  padding: 5px;
+  border-radius: 10px;
+}
+#center {
+  text-align: center;
+}
+#btn {
+  background-color: rgba(0, 0, 0, 0);
+  font-weight: bold;
+  padding: 10px;
+  margin: 2px;
+  font-family: "PT Sans", sans-serif;
+}
